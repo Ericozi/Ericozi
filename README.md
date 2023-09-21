@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning  Data science.
 - 💞️ I’m looking to collaborate on Data science project.
 - 📫 How to reach me: ericaya2023@gmail.com
+- Thank you for your supports
 
 <!---
 Ericozi/Ericozi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
